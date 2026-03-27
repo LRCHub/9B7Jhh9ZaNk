@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "夕立ち",
+  "base_artist": "ゆず",
+  "createdAt": "2026-03-27T13:07:18.464639Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕立ち",
+      "artist": "スガシカオ",
+      "has_synced": false,
+      "path": "select/01_夕立ち_スガシカオ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夕立ち - '99 NHKホール",
+      "artist": "Suga Shikao",
+      "has_synced": false,
+      "path": "select/02_夕立ち_-_'99_NHKホール_Suga_Shikao.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夕立ち",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/03_夕立ち_ゆず.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夕立ち",
+      "artist": "Yuzu",
+      "has_synced": false,
+      "path": "select/04_夕立ち_Yuzu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夕立ち",
+      "artist": "眩暈SIREN",
+      "has_synced": true,
+      "path": "select/05_夕立ち_眩暈SIREN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夕立ち",
+      "artist": "吉田拓郎",
+      "has_synced": true,
+      "path": "select/06_夕立ち_吉田拓郎.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夕立ち(Acoustic Version)",
+      "artist": "眩暈SIREN",
+      "has_synced": true,
+      "path": "select/07_夕立ち(Acoustic_Version)_眩暈SIREN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕立ち",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_夕立ち_ゆず.txt"
+    }
+  ]
+}
